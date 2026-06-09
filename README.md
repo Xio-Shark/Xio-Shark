@@ -21,14 +21,6 @@
 
 ---
 
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Xio-Shark&theme=algolia&no-frame=true&no-bg=true&column=7" alt="trophies" />
-</p>
-
----
-
 ## 📈 Activity
 
 <p align="center">
