@@ -43,6 +43,8 @@ status: Actively learning, exploring, and building
 
 | Project | Description | Tech Stack | Stars |
 | :--- | :--- | :--- | :--- |
+| [**xiocode**](https://github.com/Xio-Shark/xiocode) | 本地优先的终端 AI 编程助手：单轮文件回滚、崩溃会话续跑、直连官方模型端点、零遥测 | `TypeScript` `Node.js` | ![Stars](https://img.shields.io/github/stars/Xio-Shark/xiocode?style=flat-square&logo=github&color=00a8e8) |
+| [**xioflow**](https://github.com/Xio-Shark/xioflow) | 给 Agent 项目嵌入的受监督执行内核：启动前落意图、停止经驱动确认、逐流截断落盘、崩溃后残留判定 | `TypeScript` `SQLite` | ![Stars](https://img.shields.io/github/stars/Xio-Shark/xioflow?style=flat-square&logo=github&color=00a8e8) |
 | [**pr-guardian**](https://github.com/Xio-Shark/pr-guardian) | 针对 GitHub PR 的智能审查与质量守护工具，自动化辅助开发工作流 | `Python` | ![Stars](https://img.shields.io/github/stars/Xio-Shark/pr-guardian?style=flat-square&logo=github&color=00a8e8) |
 | [**localops-copilot**](https://github.com/Xio-Shark/localops-copilot) | 面向本地环境与自动化运维流程的 Copilot 协作助手 | `Python` | ![Stars](https://img.shields.io/github/stars/Xio-Shark/localops-copilot?style=flat-square&logo=github&color=00a8e8) |
 | [**cpp-inference-engine**](https://github.com/Xio-Shark/cpp-inference-engine) | 极简高效的 C++ LLM 推理引擎：safetensors 加载器 + 9 个原生 CUDA 核函数 + cuBLAS FP16，Qwen2.5-7B 单层推理在 RTX 4090 上仅需 0.68ms | `C++` `CUDA` | ![Stars](https://img.shields.io/github/stars/Xio-Shark/cpp-inference-engine?style=flat-square&logo=github&color=00a8e8) |
